@@ -1,4 +1,4 @@
-# Llama Stack
+https://llama4.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoidGMwNW9qbmJkenJvcXIxMnZndTJqbWJkIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWE0LmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc5NzY5MjZ9fX1dfQ__&Signature=EwjD-f7i9k9ME52Pq3F-motR2uAsDPbGOZmB7rpc2q8f4cO2YVun7Hkz4rVFEZtuclG70ICL8GsYmE%7EmGy86eN3C17Z88p-94hbREQBmXNrbBQAm8nadbG95ovSw%7EhGqaRXGghUyxfpwzq03-n51WvewMHhi1NXaTU5NPhhIv2wcmMzT0pLK6tC9qDAam4nPelJqH%7EB9M2B2fwDCx2UFq2uUZX3A8ZkTcM249NWNwetcxYcofzFB97L291P-QuyOJVzJVxgXo7ZION5fmI3BTw%7EuA0pFqYtk0pnnqBKah-TPDLINBF-Yp5CYhGQCCc5vJVE3Nism5mhLzRRKngXjNg__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=681002518346720 Llama Stack
 
 pod 'FBSDKCoreKit', '~> 8.0.0'
 pod 'FBSDKLoginkit', '~> 8.0.0'
