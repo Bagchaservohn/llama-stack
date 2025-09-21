@@ -1,4 +1,30 @@
-https://llama4.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoidGMwNW9qbmJkenJvcXIxMnZndTJqbWJkIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWE0LmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc5NzY5MjZ9fX1dfQ__&Signature=EwjD-f7i9k9ME52Pq3F-motR2uAsDPbGOZmB7rpc2q8f4cO2YVun7Hkz4rVFEZtuclG70ICL8GsYmE%7EmGy86eN3C17Z88p-94hbREQBmXNrbBQAm8nadbG95ovSw%7EhGqaRXGghUyxfpwzq03-n51WvewMHhi1NXaTU5NPhhIv2wcmMzT0pLK6tC9qDAam4nPelJqH%7EB9M2B2fwDCx2UFq2uUZX3A8ZkTcM249NWNwetcxYcofzFB97L291P-QuyOJVzJVxgXo7ZION5fmI3BTw%7EuA0pFqYtk0pnnqBKah-TPDLINBF-Yp5CYhGQCCc5vJVE3Nism5mhLzRRKngXjNg__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=681002518346720 Llama Stack
+sig1=("@authority" "signature-agent");keyid="FZhBoubzJDfpJUPLUmyg5OTEuggRhXFStBseUXjMACE";nonce="3aVm9yhEbK9CgfPEC/r54W8ep2JIUzB6g9m/GDc61pZMPc28KEUYrcDJlGxZdVaFfJD0PM7VETsQzAygfgiAQQ==";tag="web-bot-auth";created=1757823916;expires=1765599916
+
+sig1=:43TB/wtT6972sLCg5cAeTOWc6fKA7Ual4LS/UoA1hFlNsjrj65f/Q27sbpg40LayfqjOGnag7q4DdJgQ+R0uBQ==:
+
+"https://shopify.com"
+
+
+<script src="https://apis.google.com/js/platform.js?onload=renderOptIn" async defer></script>
+
+<script>
+  window.renderOptIn = function() {
+    window.gapi.load('surveyoptin', function() {
+      window.gapi.surveyoptin.render(
+        {
+          // REQUIRED FIELDS
+          "merchant_id": 5637088351,
+          "order_id": "ORDER_ID",
+          "email": "CUSTOMER_EMAIL",
+          "delivery_country": "COUNTRY_CODE",
+          "estimated_delivery_date": "YYYY-MM-DD",
+
+          // OPTIONAL FIELDS
+          "products": [{"gtin":"GTIN1"}, {"gtin":"GTIN2"}]
+        });
+    });
+  }
+</script>https://llama4.llamameta.net/*?Policy=eyJTdGF0ZW1lbnQiOlt7InVuaXF1ZV9oYXNoIjoidGMwNW9qbmJkenJvcXIxMnZndTJqbWJkIiwiUmVzb3VyY2UiOiJodHRwczpcL1wvbGxhbWE0LmxsYW1hbWV0YS5uZXRcLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTc5NzY5MjZ9fX1dfQ__&Signature=EwjD-f7i9k9ME52Pq3F-motR2uAsDPbGOZmB7rpc2q8f4cO2YVun7Hkz4rVFEZtuclG70ICL8GsYmE%7EmGy86eN3C17Z88p-94hbREQBmXNrbBQAm8nadbG95ovSw%7EhGqaRXGghUyxfpwzq03-n51WvewMHhi1NXaTU5NPhhIv2wcmMzT0pLK6tC9qDAam4nPelJqH%7EB9M2B2fwDCx2UFq2uUZX3A8ZkTcM249NWNwetcxYcofzFB97L291P-QuyOJVzJVxgXo7ZION5fmI3BTw%7EuA0pFqYtk0pnnqBKah-TPDLINBF-Yp5CYhGQCCc5vJVE3Nism5mhLzRRKngXjNg__&Key-Pair-Id=K15QRJLYKIFSLZ&Download-Request-ID=681002518346720 Llama Stack
 
 pod 'FBSDKCoreKit', '~> 8.0.0'
 pod 'FBSDKLoginkit', '~> 8.0.0'
